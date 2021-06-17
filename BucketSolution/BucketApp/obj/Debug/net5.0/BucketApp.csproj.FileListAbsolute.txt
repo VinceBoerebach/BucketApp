@@ -1,0 +1,16 @@
+C:\Users\Vince Boerebach\source\repos\BucketSolution\BucketApp\bin\Debug\net5.0\BucketApp.exe
+C:\Users\Vince Boerebach\source\repos\BucketSolution\BucketApp\bin\Debug\net5.0\BucketApp.deps.json
+C:\Users\Vince Boerebach\source\repos\BucketSolution\BucketApp\bin\Debug\net5.0\BucketApp.runtimeconfig.json
+C:\Users\Vince Boerebach\source\repos\BucketSolution\BucketApp\bin\Debug\net5.0\BucketApp.runtimeconfig.dev.json
+C:\Users\Vince Boerebach\source\repos\BucketSolution\BucketApp\bin\Debug\net5.0\BucketApp.dll
+C:\Users\Vince Boerebach\source\repos\BucketSolution\BucketApp\bin\Debug\net5.0\ref\BucketApp.dll
+C:\Users\Vince Boerebach\source\repos\BucketSolution\BucketApp\bin\Debug\net5.0\BucketApp.pdb
+C:\Users\Vince Boerebach\source\repos\BucketSolution\BucketApp\obj\Debug\net5.0\BucketApp.csprojAssemblyReference.cache
+C:\Users\Vince Boerebach\source\repos\BucketSolution\BucketApp\obj\Debug\net5.0\BucketApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vince Boerebach\source\repos\BucketSolution\BucketApp\obj\Debug\net5.0\BucketApp.AssemblyInfoInputs.cache
+C:\Users\Vince Boerebach\source\repos\BucketSolution\BucketApp\obj\Debug\net5.0\BucketApp.AssemblyInfo.cs
+C:\Users\Vince Boerebach\source\repos\BucketSolution\BucketApp\obj\Debug\net5.0\BucketApp.csproj.CoreCompileInputs.cache
+C:\Users\Vince Boerebach\source\repos\BucketSolution\BucketApp\obj\Debug\net5.0\BucketApp.dll
+C:\Users\Vince Boerebach\source\repos\BucketSolution\BucketApp\obj\Debug\net5.0\ref\BucketApp.dll
+C:\Users\Vince Boerebach\source\repos\BucketSolution\BucketApp\obj\Debug\net5.0\BucketApp.pdb
+C:\Users\Vince Boerebach\source\repos\BucketSolution\BucketApp\obj\Debug\net5.0\BucketApp.genruntimeconfig.cache
